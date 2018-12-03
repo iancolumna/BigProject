@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "438165242111",
+    "firebase_url": "https://bigproject-85058.firebaseio.com",
+    "project_id": "bigproject-85058",
+    "storage_bucket": "bigproject-85058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438165242111:android:b420e7961a7f4dba",
+        "android_client_info": {
+          "package_name": "christian.columna.com.bigproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438165242111-ocnut17htf4o8tk3q3bbo06ola16qje3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Qsl1bPGqVO4TnFCdk3jQ_z2v3kMpf-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
